@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #a8a0a0;
+  }
+  .container:hover{
+    box-shadow: 0 0 10px rgba(231, 163, 163, 0.5);
+
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .project {
+    margin-bottom: 20px;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  p {
+    margin: 0;
+  }

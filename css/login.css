@@ -1,0 +1,41 @@
+/* Custom styles for the main_box div */
+.main_box {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #333; /* Change the background color to your preference */
+  }
+
+  /* Custom styles for the h1 element */
+  h1 {
+    font-size: 36px; /* Adjust the font size as needed */
+    color: white;
+    margin-bottom: 30px;
+  }
+
+  /* Custom styles for the table */
+  .table {
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+
+  /* Custom styles for the table header */
+  .table thead th {
+    font-size: 20px; /* Adjust the font size as needed */
+    color: white;
+    background-color: #555; /* Change the background color to your preference */
+    padding: 10px;
+  }
+
+  /* Custom styles for the table rows */
+  .table tbody tr {
+    font-size: 18px; /* Adjust the font size as needed */
+  }
+
+  /* Custom styles for the table cells */
+  .table td {
+    padding: 10px;
+    border: 1px solid #ccc; /* Add borders to the cells */
+    color: white;
+  }
